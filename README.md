@@ -69,7 +69,7 @@ class Box {
      * Cat is now in superposition as the Polonium is.
      */
     close() {
-        this.cat.alive = this.trap.atom;
+        this.cat.alive = this.trap.trigger;
     }
 
     /**
