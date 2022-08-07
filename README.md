@@ -10,7 +10,7 @@ Is cat in this box alive? Perhaps...
 
 ## Setup
 
-To create instance of <span style="font-weight: 900; white-space: pre"><span style="color: #9400D3">Q</span><span style="color: #4B0082">U</span><span style="color: #0000FF">A</span><span style="color: #00FF00">N</span><span style="color: #FFFF00">T</span><span style="color: #FF7F00">U</span><span style="color: #FF0000">M</span> <span style="color: #9400D3">B</span><span style="color: #4B0082">O</span><span style="color: #0000FF">O</span><span style="color: #00FF00">L</span><span style="color: #FFFF00">E</span><span style="color: #FF7F00">A</span><span style="color: #FF0000">N</span></span>:
+To create instance of QUANTUM BOOLEAN:
 
 ```js
 const perhaps = new QuantumBoolean();
