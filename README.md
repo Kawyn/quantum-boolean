@@ -47,7 +47,7 @@ Now we have to get a box with a trap which will poison our cat when a radioactiv
 ```js
 /**
  * You have to imagine that we put Polonium in the trap.
- * Trigger triggers when Polonium radates.
+ * Trigger triggers when Polonium radiates.
  */
 class Trap {
     trigger = new QuantumBoolean();
